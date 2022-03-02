@@ -16,6 +16,8 @@
  * ListNode(int x) { val = x; }
  * }
  */
+package Offer06;
+
 public class Offer06 {
 
 }
